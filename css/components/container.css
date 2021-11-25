@@ -1,0 +1,31 @@
+.container-banner {
+
+}
+
+.container-banner h1 {
+
+  color: #189993;
+}
+
+.container-banner p {
+  color: #b36928;
+  margin-bottom: 35px;
+}
+
+/* .container-banner a {
+
+
+} */
+
+.container {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.container h2 {
+
+
+}

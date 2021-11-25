@@ -1,0 +1,38 @@
+.footer {
+  background: #F4F4F4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  /* color: black; */
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-feather {
+  color: #c9bf3e;
+}
+.footer .fa-crow {
+  color: #1d1b1b;
+}
+.footer .fa-fish {
+  color: #6181d6;
+}
+.footer .fa-carrot {
+  color: #d1770f;
+}
+.footer .fa-seedling {
+  color: #3bac4e;
+}

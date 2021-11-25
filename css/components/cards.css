@@ -1,0 +1,42 @@
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card {
+  /* border: solid red; */
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center; */
+  border-radius: 25px;
+  box-shadow: 4px 4px 2px rgb(71, 69, 69);
+  margin-right: 15px;
+  /* position: relative; */
+  margin: 0px 15px 30px 0px;
+}
+
+.card img {
+  background-position: center;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 25px 25px 0px 0px;
+  max-height: 200px;
+  min-height: 200px;
+  min-width: 250px;
+  max-width: 250px;
+  /* position: absolute; */
+	/* height: auto; */
+}
+
+.card h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
